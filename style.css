@@ -12,6 +12,8 @@ body {
         border-radius: 40px;
         color: rgb(255, 0, 0);
         background-color: black;
+        display: flex;
+        
 
 }
 
